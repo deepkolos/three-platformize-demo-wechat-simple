@@ -1,4 +1,4 @@
-# three-platformize 微信小程序DEMO(最简)
+# three-platformize 微信小程序DEMO
 
 最基本的threejs demo, 显示一个gltf模型，小程序包大小`550kb`
 
